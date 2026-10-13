@@ -1,0 +1,57 @@
+ 
+ 
+Software Engineering Intern | Bangalore 
+ 
+Flam is building the next generation of AI-native content formats that transform passive customer touchpoints 
+into human-like visual interactions. We power enterprises to create immersive, interactive experiences across 
+marketing, communication, and commerce using cutting-edge generative AI. 
+ 
+Core Mission : We believe the most powerful interactions aren't transactional—they're creative, tactile, and 
+alive. Flam is enabling businesses to go "beyond videos" with intelligent, interactive visual content. 
+ 
+ About the Role 
+We’re looking for a passionate and motivated Software Engineering Intern to join our engineering team. You’ll 
+work closely with experienced developers to design, build, and test features that impact real users. This is a 
+hands-on internship where you’ll gain exposure to the full software development lifecycle—from ideation to 
+deployment. 
+ 
+ Key Responsibilities : 
+ 
+-​
+Collaborate with the engineering team to design, develop, and test software solutions. 
+-​
+Write clean, efficient, and well-documented code. 
+-​
+Debug and troubleshoot application issues across different environments. 
+-​
+Participate in code reviews and contribute to best practices in software development. 
+-​
+Assist in integrating APIs, improving performance, and maintaining existing systems. 
+-​
+Research emerging technologies and propose innovative solutions. 
+ 
+What We’re Looking For: 
+ 
+-​
+Pursuing a Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field. 
+-​
+Strong understanding of programming fundamentals and object-oriented design. 
+-​
+Experience with at least one modern programming language (e.g., Python, Java, JavaScript, C++, or Go). 
+-​
+Familiarity with web development frameworks, databases, or cloud technologies is a plus. 
+-​
+Strong problem-solving and analytical skills. 
+-​
+Eagerness to learn and contribute in a fast-paced, collaborative environment. 
+ 
+  Bonus Points For : 
+ 
+-​
+Prior internship or project experience in software development. 
+-​
+Exposure to Git/GitHub, APIs, or DevOps tools. 
+-​
+Understanding of Agile development processes. 
+ 
+ 

@@ -1,0 +1,25 @@
+{
+  "fixture": "synthetic controlled tests, not tokenizer benchmark",
+  "double_space": {
+    "input": "alpha  beta",
+    "starter_words": 3,
+    "correct_words": 2,
+    "starter_fertility": 0.6666666666666666,
+    "corrected_fertility": 1.0,
+    "absolute_delta": -0.33333333333333337
+  },
+  "unicode_denominator": {
+    "text_codepoints": 2,
+    "grapheme_clusters": 1
+  },
+  "weighting": {
+    "per_line_ratios": [
+      5.5,
+      1.0
+    ],
+    "macro_mean": 3.25,
+    "pooled_ratio": 4.0,
+    "delta": -0.75
+  },
+  "harmless_suspicious_code": "random.seed(1337) is unused; removing it does not change results because no random operation is used."
+}

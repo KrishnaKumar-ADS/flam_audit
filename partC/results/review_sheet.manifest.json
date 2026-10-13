@@ -1,0 +1,8 @@
+{
+  "case_count": 120,
+  "seed": 20261013,
+  "input_sha256": "ea767a2ce4391bb8fc40df1183c1e678649b748a0fd6f48f3578094bc67fd599",
+  "review_sheet_sha256": "30a6ffd8ce23fff51c5c47c2fb0cd9503fb0fa9d3cff41a71cbab3820020c69c",
+  "key_sha256": "38213c80729d5b644db7417b05ab817b1268d45e0e02046bcb8abb8ca813847b",
+  "blind_review_instruction": "Give the key only to the analyst after reviewer scores are frozen. Do not edit answer_A/answer_B."
+}

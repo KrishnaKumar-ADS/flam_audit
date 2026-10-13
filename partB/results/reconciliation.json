@@ -1,0 +1,126 @@
+{
+  "kv_bytes_per_token": 114688,
+  "kv_bytes_per_4096_token_sequence": 469762048,
+  "kv_mib_per_sequence": 448.0,
+  "estimated_usable_kv_gb": 12.080000000000002,
+  "estimated_max_4096_sequences": 25,
+  "rows": [
+    {
+      "batch_size": 1,
+      "prompt_len": 512,
+      "reported_tok_s": 70.2,
+      "output_goodput_tok_s": 23.40036563071298,
+      "combined_token_rate_recomputed": 70.20109689213895,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.01
+    },
+    {
+      "batch_size": 2,
+      "prompt_len": 512,
+      "reported_tok_s": 132.3,
+      "output_goodput_tok_s": 44.09991386735573,
+      "combined_token_rate_recomputed": 132.2997416020672,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.01
+    },
+    {
+      "batch_size": 4,
+      "prompt_len": 512,
+      "reported_tok_s": 261.0,
+      "output_goodput_tok_s": 87.00084961767205,
+      "combined_token_rate_recomputed": 261.00254885301615,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.03
+    },
+    {
+      "batch_size": 8,
+      "prompt_len": 512,
+      "reported_tok_s": 495.4,
+      "output_goodput_tok_s": 165.16129032258064,
+      "combined_token_rate_recomputed": 495.4838709677419,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.06
+    },
+    {
+      "batch_size": 16,
+      "prompt_len": 512,
+      "reported_tok_s": 883.2,
+      "output_goodput_tok_s": 294.4644140905823,
+      "combined_token_rate_recomputed": 883.3932422717469,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.12
+    },
+    {
+      "batch_size": 32,
+      "prompt_len": 512,
+      "reported_tok_s": 1489.6,
+      "output_goodput_tok_s": 496.4848484848485,
+      "combined_token_rate_recomputed": 1489.4545454545455,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.23
+    },
+    {
+      "batch_size": 64,
+      "prompt_len": 512,
+      "reported_tok_s": 2267.3,
+      "output_goodput_tok_s": 755.719557195572,
+      "combined_token_rate_recomputed": 2267.158671586716,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.47
+    },
+    {
+      "batch_size": 4,
+      "prompt_len": 3584,
+      "reported_tok_s": 565.4,
+      "output_goodput_tok_s": 70.66942719116632,
+      "combined_token_rate_recomputed": 565.3554175293306,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.16
+    },
+    {
+      "batch_size": 8,
+      "prompt_len": 3584,
+      "reported_tok_s": 902.6,
+      "output_goodput_tok_s": 112.8374655647383,
+      "combined_token_rate_recomputed": 902.6997245179064,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.31
+    },
+    {
+      "batch_size": 16,
+      "prompt_len": 3584,
+      "reported_tok_s": 1311.4,
+      "output_goodput_tok_s": 163.9383630178107,
+      "combined_token_rate_recomputed": 1311.5069041424856,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.62
+    },
+    {
+      "batch_size": 24,
+      "prompt_len": 3584,
+      "reported_tok_s": 1607.4,
+      "output_goodput_tok_s": 200.91563113145847,
+      "combined_token_rate_recomputed": 1607.3250490516677,
+      "preempted_seqs": 0,
+      "kv_cache_util": 0.93
+    },
+    {
+      "batch_size": 32,
+      "prompt_len": 3584,
+      "reported_tok_s": 1384.0,
+      "output_goodput_tok_s": 172.99123640587055,
+      "combined_token_rate_recomputed": 1383.9298912469644,
+      "preempted_seqs": 7,
+      "kv_cache_util": 0.97
+    },
+    {
+      "batch_size": 48,
+      "prompt_len": 3584,
+      "reported_tok_s": 1298.5,
+      "output_goodput_tok_s": 162.31424608678424,
+      "combined_token_rate_recomputed": 1298.513968694274,
+      "preempted_seqs": 23,
+      "kv_cache_util": 0.97
+    }
+  ]
+}
