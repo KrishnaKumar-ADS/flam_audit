@@ -144,18 +144,7 @@ The Part C memo's proposed Day-7 thresholds are **proposed gates**, not achieved
 - Do not claim a proposed threshold passed until the required experiment and valid denominator exist.
 - Ensure the final ZIP includes the latest reports generated on the working machine, then inspect the ZIP contents before submitting.
 
-## 9. Final readiness checklist
 
-- [ ] `NOTEBOOK.md` is chronological and distinguishes actual work from proposed/pending work.
-- [ ] `AI_USAGE.md` describes AI assistance, AI-generated corpus translations, and cloud inference accurately.
-- [ ] Part A numbers match the checked-in CSV outputs and memo.
-- [ ] Part B arithmetic and throughput denominators match the supplied benchmark rows.
-- [ ] Part C cloud results are labeled exploratory automated self-evaluation.
-- [ ] The human-review status is stated honestly; blank fields are not represented as reviews.
-- [ ] Any local rerun is genuinely local, uses documented model IDs, and has separate artifacts.
-- [ ] The no-external-API constraint and any exception are addressed explicitly.
-- [ ] The final ZIP contains the updated README files and all referenced evidence files.
-- [ ] You can explain the key formulas, denominators, assumptions, and limitations in the live defense.
 
 ## 10. Bottom line
 
